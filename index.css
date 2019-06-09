@@ -1,0 +1,44 @@
+body {
+	background-color: white ;
+	margin: 0;
+}
+
+#topic-name{
+	width: 50%;
+	font-weight: 10%;
+	margin-left: 20%;
+}
+
+#topic-summary{
+	width: 50%;
+	margin-left: 20%;
+	margin-top: 3%;
+}
+
+#submit-topic{
+	width: 12%;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+
+#clear{
+	width: 12%;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+
+#header{
+	text-align: center;
+	background-color: black;
+
+}
+
+.head{
+	margin: 0% 1%;
+	padding: 3%;
+    color: white;
+}
+
+form input{
+	padding: .8em;
+}
